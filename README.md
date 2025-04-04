@@ -1,10 +1,12 @@
-## 👋 Hello World! I'm Luis Garcês
+# 👋 Hello World! I'm Luis Garcês
 
-🎓 Information Systems student (3rd semester) with a technical degree in Systems Development.
-👨‍💻 Currently working as an Administrative Apprentice in HR, supporting problem-solving and internal processes.
-🌱 I'm learning about process automation, programming logic, Power BI, Python, and Artificial Intelligence.
-🚀 Passionate about technology, innovation, and digital transformation.
-📚 Always seeking personal and professional growth.
+-🎓 Information Systems student (3rd semester) with a technical degree in Systems Development.
+-👨‍💻 Currently working as an Administrative Apprentice in HR, supporting problem-solving and internal processes.
+-🌱 I'm learning about process automation, programming logic, Power BI, Python, and Artificial Intelligence.
+-🚀 Passionate about technology, innovation, and digital transformation.
+-📚 Always seeking personal and professional growth.
+
+##
 
 
 <div style="display: inline_block"><br>
