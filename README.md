@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Luis Garcês
 
-<!--
-**luisgarces07/luisgarces07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação (3º semestre) com formação técnica em Desenvolvimento de Sistemas.  
+👨‍💻 Atualmente atuo como Aprendiz no RH, apoiando na resolução de problemas e processos internos.  
+🌱 Estou aprendendo sobre automação de processos, lógica de programação, Power BI, Python e Inteligência Artificial.  
+🚀 Apaixonado por tecnologia, inovação e transformação digital.  
+📚 Em busca constante de evolução pessoal e profissional.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://www.linkedin.com/in/luisgarces2005/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+</div>
